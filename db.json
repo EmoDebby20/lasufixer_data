@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "dc92ab27-0c2a-4a7b-8fa3-dffd15bb1df5",
+      "fullName": "Olugbenga Daniel",
+      "email": "olugbenga.daniel@lasu.edu.ng",
+      "role": "user"
+    },
+    {
+      "id": "a8e6464d-b6d3-408a-a16e-46fad9e1c381",
+      "fullName": "Desire Oluwadara",
+      "email": "desire.oluwadara@st.lasu.edu.ng",
+      "role": "user"
+    },
+    {
+      "id": "2da0e25b-4f5e-4ef8-8a59-85f019806c46",
+      "fullName": "Drey Ike",
+      "email": "drey.ike@lasu.edu.ng",
+      "role": "admin"
+    },
+    {
+      "id": "055daa63-cee7-45f6-92c0-8f832da58be3",
+      "fullName": "Charles Ifeanyi",
+      "email": "charles.ifeanyi@lasu.edu.ng",
+      "role": "admin"
+    }
+  ],
+
+  "reports": []
+  
+}
